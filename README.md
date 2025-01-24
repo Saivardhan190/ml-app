@@ -29,7 +29,7 @@ This is a **Streamlit-based web application** that predicts the species of an Ir
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Saivardhan190/ml-app.git
 2.Install the required libraries:
 
 pip install -r requirements.txt
